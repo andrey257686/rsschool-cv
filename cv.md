@@ -6,9 +6,9 @@
 
 [E-mail](mailto:ushakov.andrey257686@gmail.com)
 
-[Phone](tel:89996052094)
-
 [Github](https://github.com/andrey257686)
+
+Phone: +7 999 605 20 94
 
 ## About
 
