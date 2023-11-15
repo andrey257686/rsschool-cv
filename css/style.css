@@ -1,1 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 
+.main_photo {
+  width: 1920px;
+  height: 400px;
+}
